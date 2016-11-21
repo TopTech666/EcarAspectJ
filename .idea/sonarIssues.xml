@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/AOPActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/DemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/FragmentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/ImageFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/hugos/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/hugos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/tests/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/tests/TestInterfaceClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/tests/TestInterfaceMethodClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/java/com/hujiang/library/demo/tests/TestMethodClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AspectJX-Demo-master/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/anotation/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/hogos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/tests/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/tests/TestInterfaceMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspect/tests/TestMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspecth/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspecth/anotation/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspecth/hogos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspecth/tests/TestInterfaceMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspecth/tests/TestMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/anotation/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/hogos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/hugos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/hugos/Hugo1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestInterfaceClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestInterfaceMethodClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestInterfaceMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestMethodClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectj/tests/TestMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/anotation/DebugLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/hogos/Hugo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/tests/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/tests/TestInterfaceMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ecar/ecaraspectjlib/tests/TestMethodSubClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aspectj/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aspectj/src/main/java/com/ecar/ecaraspectjlib/HugoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildsrc/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildsrc/src/main/groovy/com.hc.plugin/EcarPlugin.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildsrc/src/main/resources/META-INF/gradle-plugins/com.hc.gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EcarAspectJ2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EcarAspectJ2/aspectjlib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EcarAspectJ2/ecarplugin/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EcarAspectJ2/ecarplugin/src/main/groovy/com/ecar/ecarplugins/EcarPlugin.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EcarAspectJ2/ecarplugin/src/main/resources/gradle-plugins/com.hc.gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/buildsrc/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/buildsrc/src/main/groovy/com.hc.plugin/EcarPlugin.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/buildsrc/src/main/groovy/com.hc.plugin/MyPlugin.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/buildsrc/src/main/resources/META-INF/gradle-plugins/com.hc.gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/temp/tinkerKim/AopDemo/libinlib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
